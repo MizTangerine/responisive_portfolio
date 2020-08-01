@@ -8,6 +8,7 @@
     font-family: 'Rancho','Red Rose', cursive;
     font-size:35px
 }
+
 .heading {
     width: 99%;
     border-bottom: 1px solid black;
@@ -22,12 +23,10 @@
 body {
     background-color: rgb(183, 248, 183);
     font-family: 'Lato', sans-serif;
-
 }
 
 img {
     max-width: 50%;
-    max-height: auto;
     padding: 5%
 }
 
