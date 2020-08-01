@@ -4,6 +4,6 @@
 
 Link to live site: [Responsive Portfolio](https://clarissareeve.github.io/responisive_portfolio/)
 
-![Landing Page](assets/landingpage.png)
+![Landing Page](assets/LandingPage.png)
 
 ## This is my basic portfolio page. I used Boostrap for some quick styling, as well as created a small css of my own. I also used a few GoogleFonts.
